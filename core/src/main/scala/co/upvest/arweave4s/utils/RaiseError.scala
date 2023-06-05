@@ -1,4 +1,4 @@
-package co.upvest.arweave4s.utils
+package co.copperexchange.arweave4s.utils
 
 import cats.MonadError
 import cats.data.NonEmptyList
